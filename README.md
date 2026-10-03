@@ -3,3 +3,8 @@ https://yura-ryabykh-2519284.postman.co/workspace/Yura's-Workspace~f82bfa65-d577
 
 ./gradlew bootRun
 Java21
+
+
+8081 — (users).
+
+8082 — (orders).
